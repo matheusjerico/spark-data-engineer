@@ -4,7 +4,7 @@
 
 ## 1. Considerações gerais
 Como funciona a solução:
-- O desenvolvimento inicial da solução para análise de dados foi feita utilziando ```Jupyter Noteboo``` (com PySpark).
+- O desenvolvimento inicial da solução para análise de dados foi feita utilziando ```Jupyter Notebook``` (com PySpark).
 - Após entendimento dos dados e validação dos métodos, o código foi modularizado em arquivos ```.py```.
 - O sistema está encapsulado em container ```Docker```, para facilitar a reprodução do projeto.
 
