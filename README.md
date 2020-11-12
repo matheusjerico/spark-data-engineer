@@ -24,6 +24,9 @@ Para reproduzir a aplicação, utilize o ```Makefile```
 O projeto foi inicialmente desenvolvido utilizando ```Jupyter Notebook```. Portanto, dentro do diretório ```/jupy``` temos os dois ```Jupyter Notebook``` utilizados para resolver os problemas propostos (Task-01.ipynb e Task-01.ipynb). Os resultados de ambas aplicações estão no diretório ```/jupy/result```. Os conjuntos de dados utilizados estão no diretório ```/jupy.dataset```.
 
 Após o entendimento do problema, bem como o entendimento dos dados, a solução foi desenvolvida utilizando arquivos ```.py```. Dentro do diretório ```/src``` temos toda a solução desenvolvida.
+
+Após executar a aplicação utilizando o ```Makefile```, o resultado dos desafios estarão no diretório ```/src/container-result```, que é o diretório compartilhado com o Container por meio de volumes.
+
 ```
 ├── information
 │   └── desafio_luizalabs_-_de.pdf                                           <- Enunciado do desafio
